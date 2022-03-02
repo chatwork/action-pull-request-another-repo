@@ -9,7 +9,7 @@ inputs:
     required: true
   destination_folder:
     description: 'Destination folder to push the origin folder'
-    required: false
+    required: true
   user_email:
     description: 'Email for the git commit'
     required: true
